@@ -1,6 +1,7 @@
 
 ## HL7 Protocol fuzzer
-
+**Warning**
+Using this tools to hack systems without authorization is illegal and can result in severe penalties including fines and imprisonment. It also poses a serious risk to individuals' life as it can have direct life-threatening consequences if messes up with critical patient data such as allergies and insulin administration.
 
 This sctipt is to fuzz HL7 v2 protocol by injecting payloads in the message's fields. 
 
