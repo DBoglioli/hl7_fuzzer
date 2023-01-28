@@ -69,7 +69,7 @@ PV1||O|168 ~219~C~PMA^^^^^^^^^||||277^ALLEN MYLASTNAME^BONNIE^^^^|||||||||| ||26
 
 ## Usage
 ```sh
-python3 main.py -p[port] -[targetIP] --payload-file[payload_file]
+python3 main.py -p[port] -s[targetIP] --payload-file[payload_file]
 ```
 
 
